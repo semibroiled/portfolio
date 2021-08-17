@@ -3,12 +3,12 @@
 <details open>
 <summary>aboutme</summary><br>
 
-  __i am a__ student <br>
-  __in my__ 4th Semester <br>
-  __at__ TU Darmstadt <br>
-  __studying__ Mechanical Engineering <br>
+  <b>i am a</b> student <br>
+  <b>in my</b> 4th Semester <br>
+  <b>at</b> TU Darmstadt <br>
+  <b>studying</b> Mechanical Engineering <br>
   
-  __i enjoy__
+  <b>i enjoy</b>
 
   - programming
      - ai and machine learning
@@ -29,10 +29,10 @@
 
 <details open>
 <summary>contact</summary><br>
-  __email__ amitavcmostafa@gmx.de<br>
-  __mobile__ +49-15-224-00-12-24<br>
-  __github__ https://github.com/semibroiled<br>
-  __kaggle__ https://www.kaggle.com/semibroiled<br>
+  <b>email</b> amitavcmostafa@gmx.de<br>
+  <b>mobile</b> +49-15-224-00-12-24<br>
+  <b>github</b> https://github.com/semibroiled<br>
+  <b>kaggle</b> https://www.kaggle.com/semibroiled<br>
 
 </details>
 
