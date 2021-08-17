@@ -33,8 +33,8 @@
 <summary>contact</summary><br>
   <b>email</b> <a href="mailto:amitavcmostafa@gmx.de">amitavcmostafa@gmx.de</a><br>
   <b>mobile</b> +49-15-224-00-12-24<br>
-  <b>github</b> <a href="https://github.com/semibroiled">https://github.com/semibroiled</a><br>
-  <b>kaggle</b> <a href="https://www.kaggle.com/semibroiled">https://www.kaggle.com/semibroiled</a><br>
+  <b>github</b> <a href="https://github.com/semibroiled" target="_blank">https://github.com/semibroiled</a><br>
+  <b>kaggle</b> <a href="https://www.kaggle.com/semibroiled" target="_blank">https://www.kaggle.com/semibroiled</a><br>
 
 </details><br>
 
@@ -49,6 +49,21 @@
   MATLAB<br> <b>including</b> Simulink, <br>
   Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc., <br> 
   <b>and</b> Latex
+  
+  
+  
+</details><br>
+
+## learning adventures
+
+<details>
+<summary>courses and workshops online</summary><br>
+
+  <b>recently i taught myself</b><br><br>
+  Python<br> <b>on</b> Kaggle <b>and got</b> this<br>
+  Intro to Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br>
+  Intermediate Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br> 
+
   
   
   
