@@ -22,7 +22,7 @@
   <li> calisthenics @freeletics</li>
   <li> food, but to eat 😆 </li><br><br>
   
-    and last but not least <br>
+    and last but not least <br><br>
   
     <li> sleep 🛌 💤 </li><br><br>
     </ul>
