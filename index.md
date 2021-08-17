@@ -20,7 +20,7 @@
   <li> learning new skills</li>
   <li>swimming, biking, running</li>
   <li> calisthenics @freeletics</li>
-  <li> food, but to eat 😆 </li>
+  <li> food, but to eat 😆 </li><br>
   
     and last but not least <br><br>
   
