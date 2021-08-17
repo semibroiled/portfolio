@@ -1,7 +1,7 @@
 ## aboutme
 
 <details open>
-<summary>aboutme</summary>
+<summary>aboutme</summary><br><br>
 
   __i am a__ student <br>
   __in my__ 4th Semester <br>
@@ -28,7 +28,7 @@
 ## contact
 
 <details open>
-<summary>contact</summary>
+<summary>contact</summary><br><br>
   __email__ amitavcmostafa@gmx.de<br>
   __mobile__ +49-15-224-00-12-24<br>
   __github__ https://github.com/semibroiled<br>
