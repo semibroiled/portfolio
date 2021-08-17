@@ -15,17 +15,14 @@
   <li> programming
     <ul><li> ai and machine learning</li>
      <li> data science</li>
-      <li> games</li></ul></li>
+     <li> games</li></ul></li>
   <li> making music</li>
   <li> learning new skills</li>
   <li>swimming, biking, running</li>
   <li> calisthenics @freeletics</li>
-  <li> food, but to eat 😆 </li><br>
-  
-    and last but not least <br>
-  
-    <li> sleep 🛌 💤 </li><br>
-    </ul><br>
+  <li> food, but to eat 😆 </li>
+  <li> and last but not least, sleep 🛌 💤 </li><br>
+  </ul>
 
 </details><br>
 
