@@ -1,7 +1,7 @@
 ## aboutme
 
 <details>
-  <summary></summary>
+  <summary>aboutme</summary>
 
 
   
@@ -26,12 +26,17 @@ and last but not least <br>
 
 </details>
 
+
+## contact
+
 <details>
   <summary>contact</summary>
- __email__ amitavcmostafa@gmx.de
- __mobile__ +49-15-224-00-12-24
- __github__ https://github.com/semibroiled
- __kaggle__ https://www.kaggle.com/semibroiled
+ __email__ amitavcmostafa@gmx.de<br>
+ __mobile__ +49-15-224-00-12-24<br>
+ __github__ https://github.com/semibroiled<br>
+ __kaggle__ https://www.kaggle.com/semibroiled<br>
 
 </details>
+
+more to be added soon...
 
