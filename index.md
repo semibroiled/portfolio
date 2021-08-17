@@ -9,18 +9,23 @@
   <b>studying</b> Mechanical Engineering <br>
   
   <b>i enjoy</b>
-
-  - programming
-     - ai and machine learning
-     - data science
-     - games
-  - making music
-  - learning new skills
-  - swimming, biking, running
-  - calisthenics @freeletics
-  - food, but to eat 😆 <br><br>
-  and last but not least <br>
-  - sleep 🛌 💤<br><br><br>
+  <ul>
+  <li> programming
+    <ul>
+     <li> ai and machine learning</li>
+     <li> data science</li>
+      <li> games</li></ul>
+     </li>
+  <li> making music</li>
+  <li> learning new skills</li>
+  <li>swimming, biking, running</li>
+  <li> calisthenics @freeletics</li>
+  <li> food, but to eat 😆 </li><br><br>
+  
+    and last but not least <br>
+  
+    <li> sleep 🛌 💤 </li><br><br>
+    </ul>
 
 </details>
 
