@@ -6,7 +6,7 @@
   <b>i am a</b> student <br>
   <b>in my</b> 4th Semester <br>
   <b>at</b> TU Darmstadt <br>
-  <b>studying</b> Mechanical Engineering <br><br>
+  <b>studying</b> Mechanical Engineering B.Sc. <br><br>
   
   <b>i enjoy</b>
   <ul>
@@ -15,8 +15,7 @@
      <li> ai and machine learning</li>
      <li> data science</li>
       <li> games</li>
-      </ul>
-     </li>
+      </ul></li>
   <li> making music</li>
   <li> learning new skills</li>
   <li>swimming, biking, running</li>
