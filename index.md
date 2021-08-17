@@ -44,10 +44,10 @@
 <details>
 <summary>programming</summary><br>
 
-  <b>i try to dabble in </b><br>
-  Python <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br>
-  MATLAB <b>including</b> Simulink, <br>
-  Javascript/Typescript <b>including</b> angular, react, jquery, html, etc., <br> 
+  <b>i try to dabble in </b><br><br>
+  Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br>
+  MATLAB<br> <b>including</b> Simulink, <br>
+  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc., <br> 
   <b>and</b> Latex
   
   
