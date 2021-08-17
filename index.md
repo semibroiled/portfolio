@@ -21,7 +21,7 @@
   <li>swimming, biking, running</li>
   <li> calisthenics @freeletics</li>
   <li> food, but to eat 😆 </li>
-  <li> and last but not least, sleep 🛌 💤 </li><br>
+  <li> and last but not least, sleep 🛌 💤 </li>
   </ul>
 
 </details><br>
