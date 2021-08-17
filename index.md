@@ -47,8 +47,8 @@
   <b>i try to dabble in </b><br><br>
   Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br>
   MATLAB<br> <b>including</b> Simulink, <br>
-  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc., <br> 
-  <b>and</b> Latex
+  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b>and</b><br> 
+  Latex
   
   
   
