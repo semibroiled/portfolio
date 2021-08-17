@@ -6,7 +6,7 @@
   <b>i am a</b> student <br>
   <b>in my</b> 4th Semester <br>
   <b>at</b> TU Darmstadt <br>
-  <b>studying</b> Mechanical Engineering <br>
+  <b>studying</b> Mechanical Engineering <br><br>
   
   <b>i enjoy</b>
   <ul>
