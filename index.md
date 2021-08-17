@@ -34,10 +34,10 @@
 
 <details open>
 <summary>contact</summary><br>
-  <b>email</b> amitavcmostafa@gmx.de<br>
+  <b>email</b> <a href="mailto:amitavcmostafa@gmx.de">amitavcmostafa@gmx.de</a><br>
   <b>mobile</b> +49-15-224-00-12-24<br>
-  <b>github</b> https://github.com/semibroiled<br>
-  <b>kaggle</b> https://www.kaggle.com/semibroiled<br>
+  <b>github</b> <a href="https://github.com/semibroiled">https://github.com/semibroiled</a><br>
+  <b>kaggle</b> <a href="https://www.kaggle.com/semibroiled">https://www.kaggle.com/semibroiled</a><br>
 
 </details><br>
 
