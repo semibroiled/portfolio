@@ -7,13 +7,13 @@
   <b>in my</b> 4th Semester <br>
   <b>at</b> TU Darmstadt <br>
   <b>studying</b> Mechanical Engineering B.Sc. <br>
+  
   <br>
   
   <b>i enjoy</b>
   <ul>
   <li> programming
-    <ul>
-     <li> ai and machine learning</li>
+    <ul><li> ai and machine learning</li>
      <li> data science</li>
       <li> games</li></ul></li>
   <li> making music</li>
@@ -27,7 +27,7 @@
     <li> sleep 🛌 💤 </li><br><br>
     </ul>
 
-</details>
+</details><br>
 
 
 ## contact
