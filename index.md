@@ -45,9 +45,9 @@
 <summary>programming</summary><br>
 
   <b>i try to dabble in </b><br><br>
-  Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br>
-  MATLAB<br> <b>including</b> Simulink, <br>
-  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b>and</b><br> 
+  Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br><br> 
+  MATLAB<br> <b>including</b> Simulink, <br><br> 
+  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b>and</b><br><br>  
   Latex
   
   
@@ -60,9 +60,9 @@
 <summary>courses and workshops online</summary><br>
 
   <b>recently i taught myself</b><br><br>
-  Python<br> <b>on</b> Kaggle <b>and got</b> this<br>
-  Intro to Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br>
-  Intermediate Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br> 
+  Python<br> <b>on</b> Kaggle <b>and got</b> this<br><br> 
+  Intro to Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br><br> 
+  Intermediate Machine Learning<br> <b>on</b> Kaggle <b>and got</b> this<br><br>  
 
   
   
