@@ -25,9 +25,9 @@
     and last but not least <br><br>
   
     <li> sleep 🛌 💤 </li><br><br>
-    </ul>
+    </ul><br>
 
-</details><br>
+</details><br><br>
 
 
 ## contact
