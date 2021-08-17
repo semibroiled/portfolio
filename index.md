@@ -22,12 +22,12 @@
   <li> calisthenics @freeletics</li>
   <li> food, but to eat 😆 </li><br>
   
-    and last but not least <br><br>
+    and last but not least <br>
   
-    <li> sleep 🛌 💤 </li><br><br>
+    <li> sleep 🛌 💤 </li><br>
     </ul><br>
 
-</details><br><br>
+</details><br>
 
 
 ## contact
@@ -39,7 +39,7 @@
   <b>github</b> https://github.com/semibroiled<br>
   <b>kaggle</b> https://www.kaggle.com/semibroiled<br>
 
-</details><br><br>
+</details><br>
 
 tba...
 
