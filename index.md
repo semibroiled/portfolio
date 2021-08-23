@@ -60,8 +60,8 @@
 <summary>courses and workshops online</summary><br>
 
   <b>recently i taught myself</b><br><br>
-  Python<br> <b>on</b> Kaggle <b>and got</b><a href='https://raw.githubusercontent.com/semibroiled/portfolio/gh-pages/certs/semibroiled%20-%20Python.png' target='_blank'>this</a><br><br> 
-  Intro to Machine Learning<br> <b>on</b> Kaggle <b>and got</b><a href='https://raw.githubusercontent.com/semibroiled/portfolio/gh-pages/certs/semibroiled%20-%20Intro%20to%20Machine%20Learning.png' target='_blank'>this</a><br><br> 
+  Python<br> <b>on</b> Kaggle <b>and got</b> <a href='https://raw.githubusercontent.com/semibroiled/portfolio/gh-pages/certs/semibroiled%20-%20Python.png' target='_blank'>this</a><br><br> 
+  Intro to Machine Learning<br> <b>on</b> Kaggle <b>and got</b> <a href='https://raw.githubusercontent.com/semibroiled/portfolio/gh-pages/certs/semibroiled%20-%20Intro%20to%20Machine%20Learning.png' target='_blank'>this</a><br><br> 
   Intermediate Machine Learning<br> <b>on</b> Kaggle <b>and got</b> <a href='https://raw.githubusercontent.com/semibroiled/portfolio/gh-pages/certs/semibroiled%20-%20Intermediate%20Machine%20Learning.png' target='_blank'>this</a><br><br>  
 
   
