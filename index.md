@@ -71,9 +71,6 @@
   Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc.,<br><br>
   SQL<br> <b>with</b> mySql, etc. <b>and</b><br><br>
   Latex
-  
-  
-  
 </details><br>
 
 ## learning adventures
