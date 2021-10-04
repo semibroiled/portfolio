@@ -73,7 +73,7 @@
   <b>i try to dabble in </b><br><br>
   Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br><br> 
   MATLAB<br> <b>including</b> Simulink, <br><br> 
-  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b><br>
+  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc.,<br><br>
   SQL<br> <b>with</b> mySql, etc. <b>and</b><br><br>
   Latex
   
