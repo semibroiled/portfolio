@@ -52,9 +52,9 @@
 <summary>extracurricular engagement</summary><br>
 
   <b>i've attended the</b><br><br>
-  Physics Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <b>in</b> Dhaka,Bangladesh <b>and achieved</b><br>5th Place as an Individual divisionally<br><br>
-  Biochemistry Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <b>in</b> Dhaka,Bangladesh <b>and achieved</b><br>1st Place as a Team nationally <b>and</b><br><br>
-  Bangla Channel Swimming Expedition<br> <b>in</b> 2016 <b>in</b> Teknaf - St.Martin's Island,Bangladesh <b>as a</b><br>Volunteer Rescuer<br><br>
+  Physics Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <br><b>in</b> Dhaka,Bangladesh <br><b>and achieved</b><br>5th Place as an Individual divisionally<br><br>
+  Biochemistry Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <br><b>in</b> Dhaka,Bangladesh <br><b>and achieved</b><br>1st Place as a Team nationally <b>and</b><br><br>
+  Bangla Channel Swimming Expedition<br> <b>in</b> 2016 <br><b>from</b> Teknaf - St.Martin's Island,Bangladesh <br><b>as a</b><br>Volunteer Rescuer<br><br>
   
  
 </details><br>
