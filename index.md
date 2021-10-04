@@ -73,7 +73,7 @@
   Latex
 </details><br>
 
-## learning adventures
+<h2> learning adventures </h2>
 
 <details>
 <summary>courses and workshops online</summary><br>
