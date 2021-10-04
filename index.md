@@ -39,6 +39,32 @@
 </details><br>
 
 
+## extracurricular engagement
+
+</details><br>
+
+<details>
+<summary>work history </summary><br>
+  
+</details><br>
+
+<details>
+<summary>extracurricular engagement</summary><br>
+
+  <b>i've attended the</b><br><br>
+  Physics Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <b>in</b> Dhaka,Bangladesh <b>and achieved</b><br>5th Place as an Individual divisionally<br><br>
+  Biochemistry Olympiad<br> <b>between</b> 10.2014 <b>and</b> 04.2016 <b>in</b> Dhaka,Bangladesh <b>and achieved</b><br>1st Place as a Team nationally <b>and</b><br><br>
+  Bangla Channel Swimming Expedition<br> <b>in</b> 2016 <b>in</b> Teknaf - St.Martin's Island,Bangladesh <b>as a</b><br>Volunteer Rescuer<br><br>
+  
+ 
+</details><br>
+
+<details>
+<summary>athletics</summary><br>
+  
+</details><br>
+
+
 ## programming
 
 <details>
@@ -47,7 +73,8 @@
   <b>i try to dabble in </b><br><br>
   Python<br> <b>including</b> numpy, pandas, pyplot, sklearn, etc.,<br><br> 
   MATLAB<br> <b>including</b> Simulink, <br><br> 
-  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b>and</b><br><br>  
+  Javascript/Typescript<br> <b>including</b> angular, react, jquery, html, etc. <b><br>
+  SQL<br> <b>with</b> mySql, etc. <b>and</b><br><br>
   Latex
   
   
