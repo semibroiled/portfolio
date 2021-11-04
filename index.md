@@ -44,6 +44,15 @@
 
 <details>
 <summary>work history </summary><br>
+  <b>i'm employed at</b><br><br>
+  PTW Institut für Produktionsmanagement, Technologie und Werkzeugmaschinen<br> <b>in the capacity of a</b> Research Assistant <b>at the</b> MDZ Mittelstand-Digital Zentrum<br><b>effective from</b> 10.2021 <b>until</b> currently <br><b>where</b> I am a part of the Evaluation Team asissting in the conception and execution of the tasks of a Data Architect, Engineer and Database Administrator. I also partake the responsibility of analyzing and reporting said Evaluation Data (BI Analyst) <br><br>
+  
+  <b>i'm employed at</b><br><br>
+  PTW Institut für Produktionsmanagement, Technologie und Werkzeugmaschinen<br> <b>in the capacity of a</b> Research Assistant <b>at the</b> Team 5S<br><b>effective from</b> 11.2021 <b>until</b> currently <br><b>where</b> I am a part of the administration and auditting team. I take regular audits of the workplace ensuring good usability of the facility. I also receive training on how to operate and maintain the different Machine tools and equipment <br><br>
+  
+  <!-- Data Architect: design the way data will be retrieved and consumed; Data Engineer: Process the obtained data so it can be analyzed; Database Administrator: handles control of (traditional) data; BI Analyst: performs analysis and reporting of past historical data -->
+  
+  
 </details><br>
 
 <details>
