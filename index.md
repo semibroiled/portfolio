@@ -4,9 +4,11 @@
 <summary>aboutme</summary><br>
 
   <b>i am a</b> student <br>
-  <b>in my</b> 5th Semester <br>
+  <b>pursuing a degree in</b> Bachelors of Science <br>
+  <b>studying</b> Mechanical Engineering  <br>
+  <b>in my</b> 7th Semester <br>
   <b>at</b> TU Darmstadt <br>
-  <b>studying</b> Mechanical Engineering B.Sc. <br>
+
   
   <br>
   
@@ -19,9 +21,9 @@
   <li> making music</li>
   <li> learning new skills</li>
   <li>swimming, biking, running</li>
-  <li> calisthenics @freeletics</li>
+  <li> calisthenics and gym</li>
   <li> food, but to eat 😆 </li>
-  <li> and last but not least, sleep 🛌 💤 </li>
+  <li> and last but not least, healthy amounts of sleep 🛌 💤 </li>
   </ul>
 
 </details><br>
@@ -39,7 +41,7 @@
 </details><br>
 
 
-## extracurricular engagement
+## activites
 
 
 <details>
@@ -105,5 +107,5 @@
 </details><br>
 
 
-tba...
+More infos under construction...
 
